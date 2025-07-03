@@ -1,3 +1,4 @@
+(oh yeah, i should mention this is intended for https://www.roblox.com/games/15923410629/AI-Character-Chat-Create-Your-Own-AI-Char#ropro-quick-play, this is the only game we are supporting. we, as in me and ChatGPT.)
 # roblox ai jailbreak kit v1.0
 
 **aka: “the turn\_end protocol”**
